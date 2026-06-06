@@ -1,2 +1,5 @@
 # Roger-K-CYF
-For projects associated with CYF learning 
+
+This project is to develop HTML and CSS skills. 
+
+This is how I got to my CYF workshop this morning. 
